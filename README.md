@@ -2,16 +2,18 @@
 ## Author: ASAD HIJAWI
 Links and Resources
 
-[Pull REQUEST]()
-Setup
+[Pull REQUEST](https://github.com/asadhijj/drf-api-permissions-postgres/pull/1)
+
+## Setup
 
     Clone the Repo
     Run the server
     http://127.0.0.1:8000/api/v1/cars/ To see the cars API
     http://127.0.0.1:8000/api/v1/engine/ To see the engine API
 
-.env requirements (where applicable)
-How to initialize/run your application (where applicable)
+## .env requirements (where applicable)
+
+## How to initialize/run your application (where applicable)
 
     To run the server
     python manage.py runserver
